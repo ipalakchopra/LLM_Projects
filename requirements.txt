@@ -1,4 +1,5 @@
-langchain_openai 
+langchain
+#langchain_openai 
 langchain_core
 python-dotenv
 streamlit
@@ -21,3 +22,10 @@ langchainhub
 sentence_transformers
 PyPDF2
 langchain-objectbox
+langserve
+fastapi
+uvicorn
+bs4
+chromadb
+pypdf
+faiss-cpu
