@@ -27,7 +27,7 @@ if "vector" not in st.session_state:
 
 st.title("ChatGroq Demo")
 
-llm = ChatGroq(groq_api_key=groq_api_key, model="llama-3.1-8b-instant")
+llm = ChatGroq(groq_api_key=groq_api_key, model="llama-3.3-70b-versatile")
 
 prompt = ChatPromptTemplate.from_template("""
 Anser the questions based on the provided context only.
