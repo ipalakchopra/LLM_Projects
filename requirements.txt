@@ -24,3 +24,5 @@ langchain-objectbox
 langchain_groq
 huggingface-hub
 langchain-huggingface
+pydantic
+langgraph
