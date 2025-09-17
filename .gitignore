@@ -4,3 +4,4 @@ sudo
 training_roberta/logs
 training_roberta/results
 venv
+agentic_tut/.env
